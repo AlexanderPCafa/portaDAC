@@ -1,0 +1,10 @@
+Added Component: Designator=IC?(QFN40P800X800X90-69N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ww1.microchip.com/downloads/en/DeviceDoc/VMDS-10513_VSC8541-02_VSC8541-05_Datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microsemi Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "VSC8541XMV-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "494-VSC8541XMV-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/ProductDetail/Microchip-Microsemi/VSC8541XMV-05?qs=byeeYqUIh0PEaQa1Vsi88A=="; VariantName = "[No Variations]"
+Added Member To Class: ClassName=portaDAC Member=Component IC? VSC8541XMV-05

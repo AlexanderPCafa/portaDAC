@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Added Component: Designator=J?(UJ31CHG2SMTTR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "UJ31-CH-G2-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/uj31-ch-g2-smt-tr/cui-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/uj31-ch-g2-smt-tr/cui-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.66mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UJ31-CH-G2-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-UJ31-CH-G2SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/UJ31-CH-G2-SMT-TR?qs=W0yvOO0ixfGEsh2EYrPgIQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC1-129
+Added Net: Name=GND
+Added Member To Class: ClassName=portaDAC Member=Component IC2 AK4493EQ
+Added Member To Class: ClassName=portaDAC Member=Component J? UJ31-CH-G2-SMT-TR
