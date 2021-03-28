@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXUJXTKE
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for portaDAC\Design Rule Check - portaDAC.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Author
 Value=Alexander Cafarella
