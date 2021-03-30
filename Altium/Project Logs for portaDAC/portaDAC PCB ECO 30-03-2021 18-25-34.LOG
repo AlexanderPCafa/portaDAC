@@ -1,0 +1,37 @@
+Added Pin To Net: NetName=3.3V Pin=IC3-58
+Added Pin To Net: NetName=RX_CLK Pin=IC1-114
+Added Pin To Net: NetName=RX_CLK Pin=IC3-32
+Added Net: Name=RX_CLK
+Added Pin To Net: NetName=RX_CTL Pin=IC1-115
+Added Pin To Net: NetName=RX_CTL Pin=IC3-30
+Added Net: Name=RX_CTL
+Added Pin To Net: NetName=RXD0 Pin=IC1-116
+Added Pin To Net: NetName=RXD0 Pin=IC3-29
+Added Net: Name=RXD0
+Added Pin To Net: NetName=RXD1 Pin=IC1-117
+Added Pin To Net: NetName=RXD1 Pin=IC3-27
+Added Net: Name=RXD1
+Added Pin To Net: NetName=RXD2 Pin=IC1-118
+Added Pin To Net: NetName=RXD2 Pin=IC3-26
+Added Net: Name=RXD2
+Added Pin To Net: NetName=RXD3 Pin=IC1-119
+Added Pin To Net: NetName=RXD3 Pin=IC3-25
+Added Net: Name=RXD3
+Added Pin To Net: NetName=TX_CLK Pin=IC1-112
+Added Pin To Net: NetName=TX_CLK Pin=IC3-37
+Added Net: Name=TX_CLK
+Added Pin To Net: NetName=TX_CTL Pin=IC1-113
+Added Pin To Net: NetName=TX_CTL Pin=IC3-33
+Added Net: Name=TX_CTL
+Added Pin To Net: NetName=TXD0 Pin=IC1-109
+Added Pin To Net: NetName=TXD0 Pin=IC3-38
+Added Net: Name=TXD0
+Added Pin To Net: NetName=TXD1 Pin=IC1-108
+Added Pin To Net: NetName=TXD1 Pin=IC3-40
+Added Net: Name=TXD1
+Added Pin To Net: NetName=TXD2 Pin=IC1-107
+Added Pin To Net: NetName=TXD2 Pin=IC3-41
+Added Net: Name=TXD2
+Added Pin To Net: NetName=TXD3 Pin=IC1-106
+Added Pin To Net: NetName=TXD3 Pin=IC3-42
+Added Net: Name=TXD3
