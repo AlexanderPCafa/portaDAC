@@ -1,0 +1,30 @@
+Added Component: Designator=IC?(QFN40P800X800X90-69N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ww1.microchip.com/downloads/en/DeviceDoc/VMDS-10513_VSC8541-02_VSC8541-05_Datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microsemi Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "VSC8541XMV-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "494-VSC8541XMV-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/ProductDetail/Microchip-Microsemi/VSC8541XMV-05?qs=byeeYqUIh0PEaQa1Vsi88A=="; VariantName = "[No Variations]"
+Added Component: Designator=J?(UJ31CHG2SMTTR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "UJ31-CH-G2-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/uj31-ch-g2-smt-tr/cui-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/uj31-ch-g2-smt-tr/cui-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.66mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UJ31-CH-G2-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-UJ31-CH-G2SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/UJ31-CH-G2-SMT-TR?qs=W0yvOO0ixfGEsh2EYrPgIQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(SS74800132F)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SS74800-132F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ss74800-132f/bel-group"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.belfuse.com/resources/drawings/stewartconnector/dr-stw-ss74800-132f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "15.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stewart Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SS74800-132F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "530-SS74800-132F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Stewart-Connector-Bel/SS74800-132F?qs=PzGy0jfpSMs%2Fug1%2FiHZ8KQ%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=portaDAC Member=Component IC? VSC8541XMV-05
+Added Member To Class: ClassName=portaDAC Member=Component J? UJ31-CH-G2-SMT-TR
+Added Member To Class: ClassName=portaDAC Member=Component J? SS74800-132F
