@@ -1,0 +1,21 @@
+Added Component: Designator=IC?(SOP65P780X200-20N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/WM8804GEDS_V.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Cirrus Logic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WM8804GEDS/V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "238-WM8804GEDS/V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Cirrus-Logic/WM8804GEDS-V?qs=%2F%252BPMR94VuMZfaZi2DDhEQA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(SJ-43504-SMT-TR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SJ-43504-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sj-43504-smt-tr/cui-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.cui.com/product/resource/digikeypdf/sj-43504-smt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ-43504-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-SJ-43504-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ-43504-SMT-TR/?qs=WyjlAZoYn519xUgky5FVDA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=portaDAC Member=Component IC? CS3318-CQZ
+Added Member To Class: ClassName=portaDAC Member=Component IC? VSC8541XMV-05
+Added Member To Class: ClassName=portaDAC Member=Component J? SJ-43504-SMT-TR
+Added Member To Class: ClassName=portaDAC Member=Component J? SS74800-132F
