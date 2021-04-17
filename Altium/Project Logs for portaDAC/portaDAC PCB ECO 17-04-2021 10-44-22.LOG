@@ -1,0 +1,16 @@
+Added Component: Designator=J?(ACZ11BR4E15FA120C)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ACZ11BR4E-15FA1-20C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/acz11br4e-15fa1-20c/cui-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cuidevices.com/product/resource/acz11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ACZ11BR4E-15FA1-20C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-ACZ11E15FA120C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/ACZ11BR4E-15FA1-20C?qs=WyjlAZoYn521vRzc3WQA5g%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=portaDAC Member=Component IC? CS3318-CQZ
+Added Member To Class: ClassName=portaDAC Member=Component IC? VSC8541XMV-05
+Added Member To Class: ClassName=portaDAC Member=Component J? SS74800-132F
+Added Member To Class: ClassName=portaDAC Member=Component J? UJ31-CH-G2-SMT-TR
+Added Member To Class: ClassName=portaDAC Member=Component J? FCR684208T
+Added Member To Class: ClassName=portaDAC Member=Component J? ACZ11BR4E-15FA1-20C
+Added Member To Class: ClassName=portaDAC Member=Component J? FCR684208R
